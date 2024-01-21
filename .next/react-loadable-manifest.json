@@ -1,0 +1,8 @@
+{
+  "../components/Faq/FaqWithVideoModal.js -> react-modal-video": {
+    "id": "../components/Faq/FaqWithVideoModal.js -> react-modal-video",
+    "files": [
+      "static/chunks/node_modules_react-modal-video_lib_index_js.js"
+    ]
+  }
+}
